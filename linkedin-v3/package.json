@@ -1,0 +1,11 @@
+{
+  "name": "linkedin-autoconnect",
+  "version": "3.0.0",
+  "description": "Simple LinkedIn auto-connect — My Network only",
+  "scripts": {
+    "start": "node automation/connect.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
